@@ -1,0 +1,14 @@
+@Api_HostAddress = https://localhost:7106
+
+### Ver todos los productos (Debería salir vacío la primera vez)
+GET {{Api_HostAddress}}/api/products
+Accept: application/json
+
+### Crear un nuevo producto
+POST {{Api_HostAddress}}/api/products
+Content-Type: application/json
+{
+  "name": "Teclado Mecanico",
+  "price": 120500,
+  "stock": 15
+}
