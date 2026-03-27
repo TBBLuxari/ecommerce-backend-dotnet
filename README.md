@@ -7,7 +7,7 @@
 
 This repository contains the Backend API for a Full-Stack E-Commerce platform. It is a RESTful API built with **.NET** and **C#**, using **Entity Framework Core** for database management and **SQL Server**.
 
-> **Note:** This is the Backend API. The Frontend (built with Angular 17+) can be found here: [ENLACE_A_TU_REPOSITORIO_FRONTEND_AQUI]
+> **Note:** This is the Backend API. The Frontend (built with Angular 17+) can be found here: [ecommerce-frontend-angular](https://github.com/TBBLuxari/ecommerce-frontend-angular)
 
 ---
 
