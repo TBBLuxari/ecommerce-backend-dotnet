@@ -12,7 +12,7 @@ This repository contains the Backend API for a Full-Stack E-Commerce platform. I
 ---
 
 ## 🎥 Full-Stack Demo Video
-*(Coming soon)* [Link to your YouTube/Loom video showing the complete flow].
+[![Project Demo](https://img.youtube.com/vi/PBmTjL7krRc/maxresdefault.jpg)](https://youtu.be/PBmTjL7krRc)
 
 ---
 
